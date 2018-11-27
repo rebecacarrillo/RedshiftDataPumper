@@ -1,0 +1,8 @@
+*.ipynb
+*.swp
+__pycache__/
+.idea
+.DS_Store
+/creds/source_creds.json
+/creds/target_creds.json
+
